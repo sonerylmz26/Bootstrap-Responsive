@@ -50,7 +50,8 @@ body{
 }
 
 .top-nav{
-  background-color: #ff4d29;
+  background-color: rgba(34, 34, 34 , 0.8);
+ 
   padding: 10px 0 10px 0;
   color: #fff;
 }
